@@ -26,5 +26,9 @@
 
 * Double click on the element for which one wants to delete.
 
+**To delete task if user by mistakely added to the list.**
+
+* If one had by-mistakely added task to the list then one can simply click on [oops] button to delete newly created task on the list.
+
 
 `The live link for this project can be found here:- ` *https://ajin998.github.io/Todo-app/todo.html*
