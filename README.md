@@ -30,5 +30,9 @@
 
 * If one had by-mistakely added task to the list then one can simply click on [oops] button to delete newly created task on the list.
 
+**To clear all the task in the list**
+
+* one can clear all the task by clicking on [Clear_all] button.
+
 
 `The live link for this project can be found here:- ` *https://ajin998.github.io/Todo-app/todo.html*
