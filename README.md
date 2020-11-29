@@ -12,12 +12,14 @@
 **To add task**
 
 * Simply type the task in the input field and click on add(+) button to add task to the list.
-Note;-
-- [] Keyboard events are not supported in this version will be included in future version.
+
+> :warning: **Note**
+- [x] Keyboard events are not supported in this version will be included in future version.
 
 **To mark as complete**
 * Just click on the element for which one what to mark it as complete.
-Note:- 
+
+> :warning: **Note**
 - [x] User should not double click on the element it can trigger different event/events.
 
 **To delete task**
