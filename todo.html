@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TODO LIST</title>
+    <link rel="stylesheet" href="./styles/todo.css" type="text/css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    />
+    <script src="./src/main.js" type="module"></script>
+  </head>
+  <body>
+    <h1 style="text-align: center">What To-Do??</h1>
+    <div class="container">
+      <div class="menu_bar">
+        <form>
+          <input
+            type="text"
+            name="taskList"
+            id="TaskList"
+            placeholder="Enter some Task"
+            style="width: 30vw; height: 5vh"
+          />
+        </form>
+        <button type="submit" id="task-fetch">+</button>
+        <button type="reset" id="task_to_clear">Oops</button>
+        <button type="reset" id="clear_trash">Clear_All</button><br />
+      </div>
+      <div class="to_display">
+        <ul id="u_l"></ul>
+      </div>
+    </div>
+  </body>
+</html>
